@@ -10,6 +10,7 @@ class Queue(AbstractQueue):
 
     def enqueue(self, value):
         """Aqui irá sua implementação"""
+        return '🍌'
 
     def dequeue(self):
         """Aqui irá sua implementação"""
